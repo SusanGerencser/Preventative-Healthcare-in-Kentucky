@@ -3,16 +3,16 @@ An examination of the types and percentages of preventative healthcare accessibl
 
 ## Kentucky Healthcare & Poverty Data Dictionary
 ### Overview
-Project Name: Kentucky Preventative Healthcare & Poverty Analysis by County 2021-2022
-Version: 1.0
-Last Updated: 12/08/2024
-Purpose: Track and analyze poverty rates and healthcare metrics across Kentucky counties
+Project Name: Kentucky Preventative Healthcare & Poverty Analysis by County 2021-2022  
+Version: 1.0  
+Last Updated: 12/08/2024  
+Purpose: Track and analyze poverty rates and healthcare metrics across Kentucky counties  
 
 ### Dataset Information
 #### Primary Dataset: KY_County_Data_2021
-* Records: 120 counties
-* Format: CSV/Excel
-* Update Frequency: Annual
+Records: 120 counties  
+Format: CSV/Excel  
+Update Frequency: Annual  
 
 ### Field Definitions
 #### Core Fields
@@ -29,40 +29,40 @@ Longitude	Decimal	County center longitude	-89.6 to -81.9	Yes	-84.2345
 * Geographic Level: County
 
 ### Data Quality Rules
-1. Data Validation
-* No missing county names
-* Poverty rates must be numeric
-* All percentages between 0-100
-* Coordinates must fall within Kentucky boundaries
+  1. Data Validation
+    * No missing county names
+    * Poverty rates must be numeric
+    * All percentages between 0-100
+    * Coordinates must fall within Kentucky boundaries
 
-2. Business Rules
-* One record per county
-* Current year data only
-* Standardized county name spelling
+  2. Business Rules
+    * One record per county
+    * Current year data only
+    * Standardized county name spelling
 
 ### Technical Specifications
-Primary Key: County
-Geographic Identifiers: Latitude/Longitude pairs
-Required Fields: All fields are required
+Primary Key: County  
+Geographic Identifiers: Latitude/Longitude pairs  
+Required Fields: All fields are required  
 
 ### Source Information
-Data Owner: [Organization Name]
-Data Steward: [Department/Individual]
+Data Owner: [Organization Name]  
+Data Steward: [Department/Individual]  
 Source Systems:
 * Poverty Data: [Source]
 * Geographic Data: [Source]
 * Healthcare Metrics: [Source]
 
 ### Usage Guidelines
-1. Visualization Requirements
-* Tableau mapping requires:
-* Clean coordinate data
-* Properly formatted percentages
-* No null values
-2. Analysis Considerations
-* Account for county population differences
-* Consider rural vs urban factors
-* Note any seasonal variations
+    1. Visualization Requirements
+      * Tableau mapping requires:
+      * Clean coordinate data
+      * Properly formatted percentages
+      * No null values
+  2. Analysis Considerations
+    * Account for county population differences
+    * Consider rural vs urban factors
+    * Note any seasonal variations
 
 ### Related Documentation
 * Kentucky County Boundary Files
@@ -74,14 +74,15 @@ Source Systems:
 * Version 1.0
 
 ### Initial dataset creation
-Base county metrics established
-Geographic coordinates verified
-Access & Security
-Data Classification: Public
-Access Level: Public
-Security Requirements: None
+Base county metrics established  
+Geographic coordinates verified  
+
+### Access & Security  
+Data Classification: Public  
+Access Level: Public  
+Security Requirements: None  
 
 ### Contact Information
-Project Manager: [Name]
-Data Steward: [Name]
-Technical Support: [Contact]
+Project Manager: [Name]  
+Data Steward: [Name]  
+Technical Support: [Contact]  
