@@ -10,9 +10,9 @@ Purpose: Track and analyze poverty rates and healthcare metrics across Kentucky 
 
 ### Dataset Information
 #### Primary Dataset: KY_County_Data_2021
-Records: 120 counties
-Format: CSV/Excel
-Update Frequency: Annual
+* Records: 120 counties
+* Format: CSV/Excel
+* Update Frequency: Annual
 
 ### Field Definitions
 #### Core Fields
