@@ -6,7 +6,7 @@ An examination of the types and percentages of preventative healthcare accessibl
 Project Name: Kentucky Preventative Healthcare & Poverty Analysis by County 2021-2022  
 Version: 1.0  
 Last Updated: 12/08/2024  
-Purpose: Track and analyze poverty rates and healthcare metrics across Kentucky counties  
+Purpose: Track and analyze poverty rates and healthcare metrics across Kentucky counties to determine what type of care is needed and in what region. 
 
 ### Dataset Information
 #### Primary Dataset  
@@ -66,11 +66,11 @@ Source Systems:
       * Clean coordinate data
       * Properly formatted percentages
       * No null values
-        
+
   2. Analysis Considerations  
     * Account for county population differences  
     * Consider rural vs urban factors  
-    * Note any seasonal variations  
+    * Be aware of insurance network access restrictions 
 
 ### Related Documentation
 * Kentucky County Boundary Files
