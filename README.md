@@ -29,16 +29,16 @@ Longitude	Decimal	County center longitude	-89.6 to -81.9	Yes	-84.2345
 * Geographic Level: County
 
 ### Data Quality Rules
-  1. Data Validation  
-    * No missing county names  
-    * Poverty rates must be numeric  
-    * All percentages between 0-100  
-    * Coordinates must fall within Kentucky boundaries  
+1. Data Validation  
+  * No missing county names  
+  * Poverty rates must be numeric  
+  * All percentages between 0-100  
+  * Coordinates must fall within Kentucky boundaries  
 
-  2. Business Rules  
-    * One record per county  
-    * Current year data only  
-    * Standardized county name spelling  
+2. Business Rules  
+  * One record per county  
+  * Current year data only  
+  * Standardized county name spelling  
 
 ### Technical Specifications
 Primary Key: County  
@@ -55,7 +55,7 @@ Source Systems:
 * Geographic Data: [Kentucky Counties](https://www.sos.ky.gov/land/resources/Pages/Geographic-Materials.aspx)
 
 ### Usage Guidelines
-    1. Visualization Requirements
+  1. Visualization Requirements
       * Tableau mapping requires:
       * Clean coordinate data
       * Properly formatted percentages
