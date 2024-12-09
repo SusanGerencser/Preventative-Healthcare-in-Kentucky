@@ -16,12 +16,18 @@ Update Frequency: Annual
 
 ### Field Definitions
 #### Core Fields
-Field Name	Data Type	Description	Valid Range	Required	Example
-County	Text	Kentucky county name	Valid KY county names	Yes	"Adair"
-Year	Integer	Year of data collection	2021	Yes	2021
-Poverty_Rate	Decimal	Percentage of population below poverty line	0.0-100.0	Yes	16.0
-Latitude	Decimal	County center latitude	36.4-39.1	Yes	37.8765
-Longitude	Decimal	County center longitude	-89.6 to -81.9	Yes	-84.2345
+| Field Name | Data Type | Description | Valid Range | Required | Example |
+|------------|-----------|-------------|-------------|----------|---------|
+| County | Text | Kentucky county name | Valid KY county names | Yes | Adair |
+| State | Text | US state name | Kentucky | Yes | Kentucky |
+| Year | Integer | Year of data collection | 2021-2022 | Yes | 2021-2022 |
+| Poverty_Rate | Decimal | Percentage of population below poverty line | 0.0-100.0 | Yes | 16.0 |
+| Healthcare_Access | Integer | Healthcare facilities per 10,000 residents | 0-100 | Yes | 25 |
+| Population | Integer | Total county population | 1-1,000,000 | Yes | 50,000 |
+| Urban_Rural | Text | County classification | Urban/Rural/Mixed | Yes | Rural |
+| Median_Income | Integer | Median household income | 0-200,000 | Yes | 45,000 |
+| Latitude | Decimal | County center latitude | 36.4-39.1 | Yes | 37.8765 |
+| Longitude | Decimal | County center longitude | -89.6 to -81.9 | Yes | -84.2345 |
 
 ### Geographic Properties
 * State: Kentucky
