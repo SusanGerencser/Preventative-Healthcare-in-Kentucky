@@ -21,13 +21,13 @@ Update Frequency: Annual
 | County | Text | Kentucky county name | Valid KY county names | Yes | Adair |
 | State | Text | US state name | Kentucky | Yes | Kentucky |
 | Year | Integer | Year of data collection | 2021-2022 | Yes | 2021-2022 |
-| Poverty_Rate | Decimal | Percentage of population below poverty line | 0.0-100.0 | Yes | 16.0 |
-| Healthcare_Access | Integer | Healthcare facilities per 10,000 residents | 0-100 | Yes | 25 |
-| Population | Integer | Total county population | 1-1,000,000 | Yes | 50,000 |
-| Urban_Rural | Text | County classification | Urban/Rural/Mixed | Yes | Rural |
-| Median_Income | Integer | Median household income | 0-200,000 | Yes | 45,000 |
-| Latitude | Decimal | County center latitude | 36.4-39.1 | Yes | 37.8765 |
-| Longitude | Decimal | County center longitude | -89.6 to -81.9 | Yes | -84.2345 |
+| Poverty Rate Estimate | Decimal | Percentage of population below poverty line | 0.0-100.0 | Yes | 16.0 |
+| Annual Checkup | Decimal | Visits to doctor for routine checkup within the past year among adults | 0.0-100.0 | Yes | 76.9 |
+| Colorectal Cancer Screening | Decimal | Colorectal cancer screening among adults aged 45–75 years | 0.0-100.0 | Yes | 56.1 |
+| Dental Visit | Decimal | Visited dentist or dental clinic in the past year among adults | 0.0-100.0 | Yes | 55.2 |
+| Lack of Health Insurance | Decimal | Current lack of health insurance among adults aged 18-64 years | 0.0-100.0 | Yes | 6.1 |
+| Mammography | Decimal | Mammography use among women aged 50-74 years | 0.0-100.0 | Yes | 68.8 |
+
 
 ### Geographic Properties
 * State: Kentucky
