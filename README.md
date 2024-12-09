@@ -61,16 +61,16 @@ Source Systems:
 * Geographic Data: [Kentucky Counties](https://www.sos.ky.gov/land/resources/Pages/Geographic-Materials.aspx)
 
 ### Usage Guidelines
-  1. Visualization Requirements  
-    * Tableau mapping requires:
+1. Visualization Requirements  
+* Tableau mapping requires:
       * Clean coordinate data
       * Properly formatted percentages
       * No null values
 
-  2. Analysis Considerations  
-    * Account for county population differences  
-    * Consider rural vs urban factors  
-    * Be aware of insurance network access restrictions 
+2. Analysis Considerations  
+* Account for county population differences  
+* Consider rural vs urban factors  
+* Be aware of insurance network access restrictions 
 
 ### Related Documentation
 * Kentucky County Boundary Files
