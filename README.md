@@ -1,5 +1,5 @@
 # Preventative-Healthcare-in-Kentucky
-An examination of the types and percentages of preventative healthcare accessible to Kentucky residents by county.
+An examination of the types and percentages of preventative healthcare accessible to Kentucky residents by county using CDC data from 2022 and USDA poverty rate data from 2021.
 
 ## Kentucky Healthcare & Poverty Data Dictionary
 ### Overview
@@ -9,8 +9,8 @@ Last Updated: 12/08/2024
 Purpose: Track and analyze poverty rates and healthcare metrics across Kentucky counties  
 
 ### Dataset Information
-#### Primary Dataset: KY_County_Data_2021
-Records: 120 counties  
+#### Primary Dataset  
+Records: 120 counties   
 Format: CSV/Excel  
 Update Frequency: Annual  
 
@@ -55,15 +55,15 @@ Source Systems:
 * Geographic Data: [Kentucky Counties](https://www.sos.ky.gov/land/resources/Pages/Geographic-Materials.aspx)
 
 ### Usage Guidelines
-  1. Visualization Requirements
+  1. Visualization Requirements  
     * Tableau mapping requires:
       * Clean coordinate data
       * Properly formatted percentages
       * No null values  
-  2. Analysis Considerations
-    * Account for county population differences
-    * Consider rural vs urban factors
-    * Note any seasonal variations
+  2. Analysis Considerations  
+    * Account for county population differences  
+    * Consider rural vs urban factors  
+    * Note any seasonal variations  
 
 ### Related Documentation
 * Kentucky County Boundary Files
