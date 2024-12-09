@@ -46,19 +46,20 @@ Geographic Identifiers: Latitude/Longitude pairs
 Required Fields: All fields are required  
 
 ### Source Information
-Data Owner: [Organization Name]  
-Data Steward: [Department/Individual]  
-Source Systems:
-* Poverty Data: [Source]
-* Geographic Data: [Source]
-* Healthcare Metrics: [Source]
+Data Owner: US Department of Agriculture: Economic Research Service  
+Data Owner: CDC: Centers for Disease Control and Prevention      
+Data Steward: [usa.gov](https://www.usa.gov/)  
+Source Systems:  
+* Poverty Data: [Percentage of total population in poverty, 2021: Kentucky](https://data.ers.usda.gov/reports.aspx?ID=17826/)
+* Healthcare Metrics: [County Data for 2024 Release](https://data.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb/data/)
+* Geographic Data: [Kentucky Counties](https://www.sos.ky.gov/land/resources/Pages/Geographic-Materials.aspx)
 
 ### Usage Guidelines
     1. Visualization Requirements
       * Tableau mapping requires:
       * Clean coordinate data
       * Properly formatted percentages
-      * No null values
+      * No null values  
   2. Analysis Considerations
     * Account for county population differences
     * Consider rural vs urban factors
@@ -83,6 +84,4 @@ Access Level: Public
 Security Requirements: None  
 
 ### Contact Information
-Project Manager: [Name]  
-Data Steward: [Name]  
-Technical Support: [Contact]  
+Project Manager: Susan Gerencser  
