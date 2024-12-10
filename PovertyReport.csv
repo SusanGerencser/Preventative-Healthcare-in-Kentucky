@@ -1,0 +1,530 @@
+﻿PolygonLayer1_label,Value0,,,,,,,,,
+,16.3,,,,,,,,,
+,24.2,,,,,,,,,
+,17.1,,,,,,,,,
+,9,,,,,,,,,
+,14.4,,,,,,,,,
+,19.3,,,,,,,,,
+,20.6,,,,,,,,,
+,32.1,,,,,,,,,
+,6.4,,,,,,,,,
+,15.1,,,,,,,,,
+,21,,,,,,,,,
+,15.5,,,,,,,,,
+,14.8,,,,,,,,,
+,31,,,,,,,,,
+,16.9,,,,,,,,,
+,11.1,,,,,,,,,
+,18.2,,,,,,,,,
+,16.1,,,,,,,,,
+,16.8,,,,,,,,,
+,11.1,,,,,,,,,
+,15.6,,,,,,,,,
+,17.9,,,,,,,,,
+,25.6,,,,,,,,,
+,20.7,,,,,,,,,
+,16.7,,,,,,,,,
+,11.6,,,,,,,,,
+,35.9,,,,,,,,,
+,22.6,,,,,,,,,
+,18.9,,,,,,,,,
+,22.5,,,,,,,,,
+,13.6,,,,,,,,,
+,18.4,,,,,,,,,
+,26.6,,,,,,,,,
+,22.6,,,,,,,,,
+,14.6,,,,,,,,,
+,17.4,,,,,,,,,
+,28,,,,,,,,,
+,13.3,,,,,,,,,
+,23.4,,,,,,,,,
+,14.7,,,,,,,,,
+,14.4,,,,,,,,,
+,12.7,,,,,,,,,
+,16.2,,,,,,,,,
+,18.2,,,,,,,,,
+,19.5,,,,,,,,,
+,14.6,,,,,,,,,
+,12.6,,,,,,,,,
+,11.7,,,,,,,,,
+,33.2,,,,,,,,,
+,14.1,,,,,,,,,
+,20.4,,,,,,,,,
+,12.4,,,,,,,,,
+,14,,,,,,,,,
+,18.6,,,,,,,,,
+,18.6,,,,,,,,,
+,25.2,,,,,,,,,
+,14.5,,,,,,,,,
+,13.8,,,,,,,,,
+,24.2,,,,,,,,,
+,12.6,,,,,,,,,
+,32,,,,,,,,,
+,35.1,,,,,,,,,
+,15.5,,,,,,,,,
+,19.5,,,,,,,,,
+,24.8,,,,,,,,,
+,33.5,,,,,,,,,
+,29.8,,,,,,,,,
+,29.1,,,,,,,,,
+,22.6,,,,,,,,,
+,19.3,,,,,,,,,
+,14.4,,,,,,,,,
+,16.6,,,,,,,,,
+,14.8,,,,,,,,,
+,17.4,,,,,,,,,
+,33.5,,,,,,,,,
+,13.6,,,,,,,,,
+,16.6,,,,,,,,,
+,33.2,,,,,,,,,
+,15.8,,,,,,,,,
+,13.7,,,,,,,,,
+,40.5,,,,,,,,,
+,17.1,,,,,,,,,
+,14.8,,,,,,,,,
+,27.8,,,,,,,,,
+,12.8,,,,,,,,,
+,19.3,,,,,,,,,
+,22,,,,,,,,,
+,16.3,,,,,,,,,
+,26.3,,,,,,,,,
+,20.9,,,,,,,,,
+,10.7,,,,,,,,,
+,16.5,,,,,,,,,
+,16.3,,,,,,,,,
+,4.9,,,,,,,,,
+,15.2,,,,,,,,,
+,35.6,,,,,,,,,
+,14.8,,,,,,,,,
+,29.9,,,,,,,,,
+,30.1,,,,,,,,,
+,22.8,,,,,,,,,
+,19.1,,,,,,,,,
+,18.5,,,,,,,,,
+,21.3,,,,,,,,,
+,20.9,,,,,,,,,
+,27,,,,,,,,,
+,9.5,,,,,,,,,
+,9.4,,,,,,,,,
+,13.6,,,,,,,,,
+,7.4,,,,,,,,,
+,17.6,,,,,,,,,
+,18.9,,,,,,,,,
+,17.2,,,,,,,,,
+,13.3,,,,,,,,,
+,18.4,,,,,,,,,
+,14.8,,,,,,,,,
+,12.8,,,,,,,,,
+,23.9,,,,,,,,,
+,15.7,,,,,,,,,
+,27.6,,,,,,,,,
+,29,,,,,,,,,
+,8.6,,,,,,,,,
+,,,,,,,,,,
+PolygonLayer2_label,Value0,,,,,,,,,
+,12.8,,,,,,,,,
+,16.3,,,,,,,,,
+,10.8,,,,,,,,,
+,12.9,,,,,,,,,
+,16,,,,,,,,,
+,12.3,,,,,,,,,
+,9.7,,,,,,,,,
+,10.1,,,,,,,,,
+,11.5,,,,,,,,,
+,16.8,,,,,,,,,
+,13.2,,,,,,,,,
+,14.2,,,,,,,,,
+,10.9,,,,,,,,,
+,10.8,,,,,,,,,
+,12.1,,,,,,,,,
+,12.1,,,,,,,,,
+,11,,,,,,,,,
+,11.6,,,,,,,,,
+,16.3,,,,,,,,,
+,19.5,,,,,,,,,
+,11.2,,,,,,,,,
+,10.3,,,,,,,,,
+,10.4,,,,,,,,,
+,13,,,,,,,,,
+,9.3,,,,,,,,,
+,19.2,,,,,,,,,
+,12.8,,,,,,,,,
+,12,,,,,,,,,
+,10.5,,,,,,,,,
+,14,,,,,,,,,
+,7.4,,,,,,,,,
+,10.2,,,,,,,,,
+,17.7,,,,,,,,,
+,14,,,,,,,,,
+,13.5,,,,,,,,,
+,10.9,,,,,,,,,
+,13.3,,,,,,,,,
+,15.4,,,,,,,,,
+,12.2,,,,,,,,,
+,12,,,,,,,,,
+,12.1,,,,,,,,,
+,14.5,,,,,,,,,
+,11.9,,,,,,,,,
+,13.7,,,,,,,,,
+,14.2,,,,,,,,,
+,8.7,,,,,,,,,
+,10.2,,,,,,,,,
+,10.3,,,,,,,,,
+,9.9,,,,,,,,,
+,16.8,,,,,,,,,
+,10.8,,,,,,,,,
+,10.6,,,,,,,,,
+,,,,,,,,,,
+Textbox105,Textbox106,fips2,county2,ruc_code2,total_est_pct3,total_est_pct_Bmin3,total_est_pct_Bmax3,under18_pct3,under18_pct_Bmin3,under18_pct_Bmax3
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21000,Kentucky,,16.3,16,16.6,21.2,20.5,21.9
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21001,Adair,7,24.2,19.4,29,35.1,25.9,44.3
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21003,Allen,3,17.1,13.9,20.3,24.6,18.3,30.9
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21005,Anderson,6,9,7,11,12.8,9,16.6
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21007,Ballard,3,14.4,11.2,17.6,21.9,15.5,28.3
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21009,Barren,6,19.3,16.3,22.3,26.3,20.5,32.1
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21011,Bath,8,20.6,16.2,25,30.7,21.7,39.7
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21013,Bell,7,32.1,26.4,37.8,39.4,27.7,51.1
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21015,Boone,1,6.4,5.1,7.7,8.3,6,10.6
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21017,Bourbon,2,15.1,12,18.2,20.3,14.1,26.5
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21019,Boyd,2,21,18,24,26.6,20.4,32.8
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21021,Boyle,7,15.5,12.3,18.7,20.9,15.1,26.7
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21023,Bracken,1,14.8,11.8,17.8,23.2,17.4,29
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21025,Breathitt,9,31,25,37,42.6,31.8,53.4
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21027,Breckinridge,8,16.9,13.3,20.5,23.9,16.9,30.9
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21029,Bullitt,1,11.1,9.6,12.6,13.7,10.8,16.6
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21031,Butler,3,18.2,14.9,21.5,23.8,17.6,30
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21033,Caldwell,7,16.1,12.6,19.6,23.5,16.7,30.3
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21035,Calloway,7,16.8,13.6,20,18.4,12.8,24
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21037,Campbell,1,11.1,9.2,13,13.4,9.9,16.9
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21039,Carlisle,3,15.6,12.5,18.7,25.4,18.8,32
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21041,Carroll,6,17.9,14.5,21.3,25.5,18.9,32.1
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21043,Carter,2,25.6,21.9,29.3,29.6,22.7,36.5
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21045,Casey,9,20.7,15.8,25.6,32.1,22.5,41.7
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21047,Christian,2,16.7,13.6,19.8,22.7,16.3,29.1
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21049,Clark,2,11.6,8.9,14.3,17.9,12.6,23.2
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21051,Clay,9,35.9,28.8,43,45.3,33.7,56.9
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21053,Clinton,9,22.6,17.4,27.8,33.5,23.5,43.5
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21055,Crittenden,8,18.9,15,22.8,29.4,21.7,37.1
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21057,Cumberland,9,22.5,17.9,27.1,31.2,21.7,40.7
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21059,Daviess,3,13.6,11.4,15.8,17.2,13.1,21.3
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21061,Edmonson,3,18.4,14.9,21.9,22.9,16.4,29.4
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21063,Elliott,8,26.6,20.3,32.9,32.4,22.8,42
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21065,Estill,8,22.6,17.7,27.5,30,21.3,38.7
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21067,Fayette,2,14.6,13.2,16,16.2,13,19.4
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21069,Fleming,9,17.4,13.8,21,24.1,17.2,31
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21071,Floyd,7,28,23,33,35.5,25.7,45.3
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21073,Franklin,4,13.3,10.9,15.7,18.1,13.3,22.9
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21075,Fulton,9,23.4,17.5,29.3,37.2,25.9,48.5
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21077,Gallatin,1,14.7,11.8,17.6,22.8,16.8,28.8
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21079,Garrard,8,14.4,11.3,17.5,20.7,14.7,26.7
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21081,Grant,1,12.7,9.8,15.6,19.2,13.6,24.8
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21083,Graves,6,16.2,13,19.4,22.2,15.9,28.5
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21085,Grayson,6,18.2,14.6,21.8,23.9,17.2,30.6
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21087,Green,8,19.5,15.5,23.5,27.5,20,35
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21089,Greenup,2,14.6,11.9,17.3,18.5,13,24
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21091,Hancock,8,12.6,9.9,15.3,16.8,11.8,21.8
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21093,Hardin,3,11.7,9.7,13.7,15.6,11.6,19.6
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21095,Harlan,7,33.2,27.9,38.5,43.8,34.8,52.8
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21097,Harrison,6,14.1,11,17.2,20.4,14.5,26.3
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21099,Hart,8,20.4,16.4,24.4,28.8,21.5,36.1
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21101,Henderson,4,12.4,9.6,15.2,17.7,12,23.4
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21103,Henry,1,14,11.1,16.9,19.5,14.2,24.8
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21105,Hickman,8,18.6,14.4,22.8,28.4,20.1,36.7
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21107,Hopkins,5,18.6,15.8,21.4,24.4,19.4,29.4
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21109,Jackson,9,25.2,19.5,30.9,36.1,25.5,46.7
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21111,Jefferson,1,14.5,13.4,15.6,19.2,16.6,21.8
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21113,Jessamine,2,13.8,11.6,16,18.1,14,22.2
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21115,Johnson,7,24.2,19.5,28.9,29.5,21.1,37.9
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21117,Kenton,1,12.6,11,14.2,16.8,13.8,19.8
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21119,Knott,9,32,26,38,39,28.4,49.6
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21121,Knox,7,35.1,30.3,39.9,42.2,33.1,51.3
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21123,Larue,3,15.5,12.4,18.6,20.8,14.8,26.8
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21125,Laurel,5,19.5,16,23,26.7,20.3,33.1
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21127,Lawrence,2,24.8,19.8,29.8,34.2,25.6,42.8
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21129,Lee,9,33.5,26.4,40.6,43.9,31.6,56.2
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21131,Leslie,9,29.8,23.3,36.3,36.3,26.2,46.4
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21133,Letcher,9,29.1,23.9,34.3,37.3,28.3,46.3
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21135,Lewis,8,22.6,17.5,27.7,31.4,22.3,40.5
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21137,Lincoln,9,19.3,15.5,23.1,24.4,17,31.8
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21139,Livingston,3,14.4,11.4,17.4,22.3,16.2,28.4
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21141,Logan,6,16.6,13.5,19.7,24.7,18.9,30.5
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21143,Lyon,8,14.8,11.3,18.3,19.7,13.8,25.6
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21145,McCracken,3,17.4,14.6,20.2,24.6,19.3,29.9
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21147,McCreary,9,33.5,26.8,40.2,40.3,28.8,51.8
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21149,McLean,3,13.6,10.2,17,18.8,13.1,24.5
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21151,Madison,4,16.6,14,19.2,17.6,13.3,21.9
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21153,Magoffin,9,33.2,27.3,39.1,47,37.2,56.8
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21155,Marion,6,15.8,12.3,19.3,21.2,15,27.4
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21157,Marshall,8,13.7,11.4,16,19,14.5,23.5
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21159,Martin,8,40.5,32.5,48.5,44.3,32.3,56.3
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21161,Mason,6,17.1,13.5,20.7,24.4,17.2,31.6
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21163,Meade,1,14.8,12.6,17,19.7,16,23.4
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21165,Menifee,9,27.8,22.5,33.1,42,31.4,52.6
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21167,Mercer,6,12.8,9.9,15.7,18.3,12.8,23.8
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21169,Metcalfe,9,19.3,14.8,23.8,31.8,22.2,41.4
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21171,Monroe,8,22,17.4,26.6,32.1,24,40.2
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21173,Montgomery,6,16.3,13.2,19.4,23.4,17.7,29.1
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21175,Morgan,9,26.3,20.2,32.4,31,22,40
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21177,Muhlenberg,6,20.9,17,24.8,29.2,22.7,35.7
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21179,Nelson,1,10.7,8.5,12.9,14,9.8,18.2
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21181,Nicholas,8,16.5,12.7,20.3,26.4,18.4,34.4
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21183,Ohio,6,16.3,13,19.6,21,14.6,27.4
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21185,Oldham,1,4.9,3.7,6.1,4.6,3.2,6
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21187,Owen,8,15.2,11.9,18.5,20.5,14.7,26.3
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21189,Owsley,9,35.6,28.1,43.1,43.5,30.3,56.7
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21191,Pendleton,1,14.8,12,17.6,20.8,15,26.6
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21193,Perry,7,29.9,24.7,35.1,37.5,28.7,46.3
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21195,Pike,7,30.1,26.7,33.5,39.6,33.5,45.7
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21197,Powell,8,22.8,18,27.6,32,23.1,40.9
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21199,Pulaski,5,19.1,15.8,22.4,25.4,18.9,31.9
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21201,Robertson,8,18.5,14.1,22.9,26.6,18.7,34.5
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21203,Rockcastle,9,21.3,16.8,25.8,29.1,21,37.2
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21205,Rowan,6,20.9,16.4,25.4,25.5,18.3,32.7
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21207,Russell,9,27,23.3,30.7,31.4,23.5,39.3
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21209,Scott,2,9.5,8,11,12.4,9.6,15.2
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21211,Shelby,1,9.4,7.5,11.3,12.2,8.6,15.8
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21213,Simpson,6,13.6,10.8,16.4,20.8,14.6,27
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21215,Spencer,1,7.4,5.8,9,9.1,6.7,11.5
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21217,Taylor,7,17.6,13.7,21.5,25,17.7,32.3
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21219,Todd,8,18.9,15.3,22.5,27.8,21.2,34.4
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21221,Trigg,2,17.2,14.3,20.1,27.9,21.4,34.4
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21223,Trimble,8,13.3,10.3,16.3,18,12.7,23.3
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21225,Union,8,18.4,14.9,21.9,22.4,16.1,28.7
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21227,Warren,3,14.8,12.9,16.7,20.4,16.9,23.9
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21229,Washington,8,12.8,9.8,15.8,17.8,12.3,23.3
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21231,Wayne,7,23.9,19,28.8,34,24.4,43.6
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21233,Webster,9,15.7,12.2,19.2,21.1,14.8,27.4
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21235,Whitley,7,27.6,22.9,32.3,33.5,25,42
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21237,Wolfe,9,29,22.6,35.4,42.6,30.3,54.9
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21239,Woodford,2,8.6,6.6,10.6,11.9,8.2,15.6
+,,,,,,,,,,
+Textbox93,Textbox96,fips,county,ruc_code,total_est,total_Bmin,total_Bmax,under18,under18_Bmin,under18_Bmax
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21000,Kentucky,,"712,023","697,813","726,233","211,069","203,982","218,156"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21001,Adair,7,"4,237","3,397","5,077","1,233",910,"1,556"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21003,Allen,3,"3,516","2,864","4,168","1,143",850,"1,436"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21005,Anderson,6,"2,144","1,660","2,628",706,495,917
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21007,Ballard,3,"1,095",854,"1,336",342,241,443
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21009,Barren,6,"8,455","7,150","9,760","2,722","2,122","3,322"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21011,Bath,8,"2,600","2,049","3,151",971,688,"1,254"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21013,Bell,7,"7,388","6,076","8,700","1,971","1,385","2,557"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21015,Boone,1,"8,664","6,901","10,427","2,887","2,086","3,688"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21017,Bourbon,2,"3,008","2,382","3,634",914,638,"1,190"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21019,Boyd,2,"9,672","8,273","11,071","2,679","2,059","3,299"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21021,Boyle,7,"4,247","3,376","5,118","1,271",922,"1,620"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21023,Bracken,1,"1,241",994,"1,488",449,336,562
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21025,Breathitt,9,"4,117","3,327","4,907","1,183",883,"1,483"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21027,Breckinridge,8,"3,427","2,706","4,148","1,083",768,"1,398"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21029,Bullitt,1,"9,146","7,913","10,379","2,376","1,877","2,875"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21031,Butler,3,"2,203","1,807","2,599",644,475,813
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21033,Caldwell,7,"2,001","1,564","2,438",660,469,851
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21035,Calloway,7,"5,792","4,693","6,891","1,234",862,"1,606"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21037,Campbell,1,"10,009","8,294","11,724","2,508","1,848","3,168"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21039,Carlisle,3,738,591,885,276,204,348
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21041,Carroll,6,"1,890","1,533","2,247",705,522,888
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21043,Carter,2,"6,592","5,639","7,545","1,725","1,322","2,128"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21045,Casey,9,"3,188","2,426","3,950","1,146",802,"1,490"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21047,Christian,2,"11,046","8,965","13,127","4,442","3,189","5,695"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21049,Clark,2,"4,202","3,237","5,167","1,449","1,019","1,879"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21051,Clay,9,"6,660","5,348","7,972","1,814","1,351","2,277"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21053,Clinton,9,"2,071","1,591","2,551",652,458,846
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21055,Crittenden,8,"1,654","1,317","1,991",585,431,739
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21057,Cumberland,9,"1,308","1,039","1,577",392,273,511
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21059,Daviess,3,"13,621","11,459","15,783","4,236","3,219","5,253"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21061,Edmonson,3,"2,237","1,812","2,662",497,355,639
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21063,Elliott,8,"1,697","1,296","2,098",406,285,527
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21065,Estill,8,"3,148","2,466","3,830",900,638,"1,162"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21067,Fayette,2,"45,319","40,839","49,799","10,622","8,498","12,746"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21069,Fleming,9,"2,639","2,101","3,177",876,624,"1,128"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21071,Floyd,7,"9,775","8,045","11,505","2,758","1,993","3,523"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21073,Franklin,4,"6,670","5,493","7,847","1,924","1,411","2,437"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21075,Fulton,9,"1,415","1,057","1,773",506,352,660
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21077,Gallatin,1,"1,280","1,027","1,533",463,342,584
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21079,Garrard,8,"2,492","1,950","3,034",772,548,996
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21081,Grant,1,"3,149","2,430","3,868","1,253",885,"1,621"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21083,Graves,6,"5,859","4,721","6,997","1,922","1,378","2,466"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21085,Grayson,6,"4,672","3,743","5,601","1,432","1,029","1,835"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21087,Green,8,"2,179","1,731","2,627",652,475,829
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21089,Greenup,2,"5,124","4,160","6,088","1,396",984,"1,808"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21091,Hancock,8,"1,135",891,"1,379",366,258,474
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21093,Hardin,3,"12,683","10,532","14,834","4,216","3,145","5,287"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21095,Harlan,7,"8,521","7,165","9,877","2,647","2,101","3,193"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21097,Harrison,6,"2,644","2,066","3,222",862,612,"1,112"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21099,Hart,8,"3,911","3,137","4,685","1,347","1,007","1,687"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21101,Henderson,4,"5,388","4,176","6,600","1,748","1,181","2,315"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21103,Henry,1,"2,167","1,720","2,614",676,493,859
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21105,Hickman,8,782,605,959,233,165,301
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21107,Hopkins,5,"8,164","6,930","9,398","2,496","1,982","3,010"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21109,Jackson,9,"3,237","2,504","3,970","1,064",751,"1,377"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21111,Jefferson,1,"110,325","101,618","119,032","32,174","27,733","36,615"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21113,Jessamine,2,"7,179","6,056","8,302","2,242","1,740","2,744"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21115,Johnson,7,"5,326","4,292","6,360","1,451","1,036","1,866"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21117,Kenton,1,"21,038","18,368","23,708","6,506","5,345","7,667"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21119,Knott,9,"4,303","3,501","5,105","1,076",783,"1,369"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21121,Knox,7,"10,263","8,861","11,665","2,914","2,289","3,539"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21123,Larue,3,"2,275","1,815","2,735",693,492,894
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21125,Laurel,5,"12,024","9,869","14,179","3,780","2,875","4,685"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21127,Lawrence,2,"3,991","3,192","4,790","1,337","1,001","1,673"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21129,Lee,9,"2,158","1,701","2,615",584,421,747
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21131,Leslie,9,"2,986","2,340","3,632",787,568,"1,006"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21133,Letcher,9,"6,112","5,010","7,214","1,712","1,300","2,124"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21135,Lewis,8,"2,899","2,239","3,559",907,645,"1,169"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21137,Lincoln,9,"4,637","3,733","5,541","1,397",971,"1,823"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21139,Livingston,3,"1,283","1,020","1,546",407,296,518
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21141,Logan,6,"4,561","3,703","5,419","1,629","1,244","2,014"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21143,Lyon,8,"1,128",858,"1,398",247,174,320
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21145,McCracken,3,"11,491","9,627","13,355","3,601","2,818","4,384"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21147,McCreary,9,"5,122","4,101","6,143","1,459","1,043","1,875"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21149,McLean,3,"1,228",925,"1,531",394,274,514
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21151,Madison,4,"14,628","12,327","16,929","3,400","2,578","4,222"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21153,Magoffin,9,"3,781","3,105","4,457","1,198",949,"1,447"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21155,Marion,6,"3,042","2,365","3,719",992,701,"1,283"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21157,Marshall,8,"4,274","3,555","4,993","1,204",920,"1,488"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21159,Martin,8,"3,953","3,171","4,735",948,692,"1,204"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21161,Mason,6,"2,846","2,254","3,438",947,666,"1,228"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21163,Meade,1,"4,421","3,762","5,080","1,304","1,057","1,551"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21165,Menifee,9,"1,699","1,378","2,020",449,335,563
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21167,Mercer,6,"2,910","2,264","3,556",924,647,"1,201"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21169,Metcalfe,9,"1,971","1,506","2,436",762,531,993
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21171,Monroe,8,"2,433","1,928","2,938",817,611,"1,023"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21173,Montgomery,6,"4,530","3,655","5,405","1,484","1,123","1,845"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21175,Morgan,9,"3,138","2,413","3,863",746,528,964
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21177,Muhlenberg,6,"6,086","4,953","7,219","1,813","1,412","2,214"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21179,Nelson,1,"4,998","3,980","6,016","1,504","1,056","1,952"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21181,Nicholas,8,"1,252",967,"1,537",492,343,641
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21183,Ohio,6,"3,816","3,037","4,595","1,179",821,"1,537"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21185,Oldham,1,"3,118","2,362","3,874",779,539,"1,019"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21187,Owen,8,"1,708","1,334","2,082",503,361,645
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21189,Owsley,9,"1,386","1,094","1,678",376,262,490
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21191,Pendleton,1,"2,146","1,734","2,558",694,502,886
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21193,Perry,7,"8,164","6,751","9,577","2,365","1,809","2,921"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21195,Pike,7,"16,831","14,911","18,751","4,605","3,898","5,312"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21197,Powell,8,"2,941","2,326","3,556",988,714,"1,262"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21199,Pulaski,5,"12,339","10,222","14,456","3,612","2,692","4,532"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21201,Robertson,8,407,311,503,127,89,165
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21203,Rockcastle,9,"3,375","2,658","4,092",970,698,"1,242"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21205,Rowan,6,"4,572","3,583","5,561","1,203",865,"1,541"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21207,Russell,9,"4,854","4,194","5,514","1,271",951,"1,591"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21209,Scott,2,"5,418","4,548","6,288","1,751","1,355","2,147"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21211,Shelby,1,"4,422","3,510","5,334","1,276",901,"1,651"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21213,Simpson,6,"2,638","2,101","3,175",951,666,"1,236"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21215,Spencer,1,"1,470","1,155","1,785",403,298,508
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21217,Taylor,7,"4,375","3,402","5,348","1,463","1,034","1,892"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21219,Todd,8,"2,291","1,850","2,732",909,693,"1,125"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21221,Trigg,2,"2,431","2,021","2,841",848,650,"1,046"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21223,Trimble,8,"1,124",871,"1,377",333,234,432
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21225,Union,8,"2,468","2,004","2,932",517,371,663
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21227,Warren,3,"19,324","16,826","21,822","6,344","5,249","7,439"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21229,Washington,8,"1,532","1,174","1,890",492,341,643
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21231,Wayne,7,"4,604","3,666","5,542","1,322",949,"1,695"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21233,Webster,9,"1,944","1,513","2,375",625,437,813
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21235,Whitley,7,"9,665","8,008","11,322","3,138","2,345","3,931"
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21237,Wolfe,9,"1,860","1,449","2,271",619,441,797
+All people in poverty (2021),Children ages 0-17 in poverty (2021),21239,Woodford,2,"2,283","1,756","2,810",687,471,903
+,,,,,,,,,,
+Textbox98,Textbox99,state_National,total_est_pct2,total_est_pct_Bmin2,total_est_pct_Bmax2,under18_pct2,under18_pct_Bmin2,under18_pct_Bmax2,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Alabama,16.3,15.9,16.7,22.7,21.9,23.5,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Alaska,10.8,10.3,11.3,13.5,12.7,14.3,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Arizona,12.9,12.6,13.2,17.8,17.2,18.4,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Arkansas,16,15.6,16.4,21.8,21,22.6,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),California,12.3,12.2,12.4,15.8,15.5,16.1,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Colorado,9.7,9.5,9.9,11.8,11.2,12.4,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Connecticut,10.1,9.8,10.4,12.9,12.2,13.6,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Delaware,11.5,11,12,16.2,15.3,17.1,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),District of Columbia,16.8,15.9,17.7,25.5,22.5,28.5,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Florida,13.2,13,13.4,18.4,17.8,19,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Georgia,14.2,13.9,14.5,20.5,19.9,21.1,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Hawaii,10.9,10.4,11.4,12.9,12,13.8,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Idaho,10.8,10.3,11.3,12.5,11.7,13.3,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Illinois,12.1,11.9,12.3,15.9,15.4,16.4,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Indiana,12.1,11.8,12.4,15.7,15.1,16.3,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Iowa,11,10.6,11.4,12.4,11.8,13,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Kansas,11.6,11.2,12,13.5,12.8,14.2,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Kentucky,16.3,16,16.6,21.2,20.5,21.9,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Louisiana,19.5,19.1,19.9,26.9,26.1,27.7,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Maine,11.2,10.7,11.7,13.8,12.9,14.7,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Maryland,10.3,10,10.6,14,13.4,14.6,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Massachusetts,10.4,10.2,10.6,12.8,12.2,13.4,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Michigan,13,12.8,13.2,17.6,17.1,18.1,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Minnesota,9.3,9.1,9.5,10.8,10.3,11.3,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Mississippi,19.2,18.7,19.7,27.1,26.2,28,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Missouri,12.8,12.5,13.1,16.5,15.9,17.1,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Montana,12,11.5,12.5,14.9,14.1,15.7,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),National,12.8,12.7,12.9,16.9,16.7,17.1,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Nebraska,10.5,10.1,10.9,12.1,11.3,12.9,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Nevada,14,13.6,14.4,18.8,18,19.6,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),New Hampshire,7.4,7,7.8,9.3,8.5,10.1,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),New Jersey,10.2,10,10.4,13.9,13.3,14.5,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),New Mexico,17.7,17.1,18.3,23.1,22.1,24.1,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),New York,14,13.8,14.2,18.8,18.3,19.3,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),North Carolina,13.5,13.2,13.8,18.2,17.6,18.8,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),North Dakota,10.9,10.3,11.5,11.5,10.6,12.4,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Ohio,13.3,13.1,13.5,18.2,17.7,18.7,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Oklahoma,15.4,15.1,15.7,20.5,19.8,21.2,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Oregon,12.2,11.9,12.5,13.8,13.1,14.5,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Pennsylvania,12,11.8,12.2,16.3,15.7,16.9,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Rhode Island,12.1,11.6,12.6,17,16.1,17.9,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),South Carolina,14.5,14.2,14.8,19.7,19,20.4,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),South Dakota,11.9,11.4,12.4,14.4,13.5,15.3,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Tennessee,13.7,13.4,14,18.4,17.8,19,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Texas,14.2,14,14.4,19.5,19,20,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Utah,8.7,8.3,9.1,8.5,7.9,9.1,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Vermont,10.2,9.7,10.7,11.2,10.3,12.1,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Virginia,10.3,10.1,10.5,13.3,12.8,13.8,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Washington,9.9,9.7,10.1,12,11.4,12.6,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),West Virginia,16.8,16.3,17.3,21.4,20.5,22.3,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Wisconsin,10.8,10.6,11,13.6,13.1,14.1,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Wyoming,10.6,9.9,11.3,12.1,11.1,13.1,,
+,,,,,,,,,,
+Textbox100,Textbox119,state_National2,total_est_pct4,total_est_pct_Bmin4,total_est_pct_Bmax4,under18_pct4,under18_pct_Bmin4,under18_pct_Bmax4,,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Alabama,"800,848","782,169","819,527","250,327","241,921","258,733",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Alaska,"77,736","74,178","81,294","23,760","22,273","25,247",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Arizona,"919,680","900,349","939,011","281,696","271,479","291,913",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Arkansas,"471,195","458,260","484,130","150,353","144,623","156,083",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),California,"4,742,405","4,689,999","4,794,811","1,362,903","1,333,900","1,391,906",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Colorado,"554,126","540,035","568,217","144,163","137,066","151,260",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Connecticut,"355,861","344,138","367,584","93,263","88,443","98,083",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Delaware,"113,026","107,766","118,286","33,302","31,518","35,086",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),District of Columbia,"107,307","101,426","113,188","31,194","27,542","34,846",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Florida,"2,830,813","2,790,138","2,871,488","774,679","749,604","799,754",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Georgia,"1,493,837","1,463,589","1,524,085","508,616","493,608","523,624",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Hawaii,"152,656","146,272","159,040","38,291","35,619","40,963",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Idaho,"202,091","193,474","210,708","57,576","53,835","61,317",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Illinois,"1,493,042","1,465,135","1,520,949","438,031","424,826","451,236",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Indiana,"799,733","782,428","817,038","244,081","234,385","253,777",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Iowa,"340,626","329,373","351,879","89,506","85,073","93,939",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Kansas,"332,457","322,234","342,680","93,202","88,459","97,945",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Kentucky,"712,023","697,813","726,233","211,069","203,982","218,156",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Louisiana,"878,477","859,106","897,848","286,908","278,007","295,809",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Maine,"149,571","143,213","155,929","33,923","31,818","36,028",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Maryland,"620,829","603,853","637,805","187,563","179,061","196,065",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Massachusetts,"701,700","685,529","717,871","171,062","162,605","179,519",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Michigan,"1,283,086","1,261,685","1,304,487","372,695","361,340","384,050",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Minnesota,"519,437","507,482","531,392","138,759","131,831","145,687",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Mississippi,"549,710","536,691","562,729","184,262","178,205","190,319",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Missouri,"765,097","748,927","781,267","222,992","214,949","231,035",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Montana,"129,910","124,852","134,968","34,221","32,296","36,146",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),National,"41,393,176","41,149,497","41,636,855","12,243,219","12,110,180","12,376,258",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Nebraska,"201,627","194,607","208,647","57,279","53,701","60,857",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Nevada,"433,095","420,882","445,308","128,585","123,239","133,931",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),New Hampshire,"99,562","94,623","104,501","23,403","21,423","25,383",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),New Jersey,"925,852","905,573","946,131","277,609","266,393","288,825",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),New Mexico,"367,050","354,401","379,699","107,621","103,016","112,226",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),New York,"2,703,053","2,668,539","2,737,567","758,752","738,369","779,135",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),North Carolina,"1,383,626","1,357,735","1,409,517","412,500","399,456","425,544",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),North Dakota,"82,270","78,002","86,538","21,011","19,433","22,589",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Ohio,"1,523,366","1,498,525","1,548,207","464,430","451,117","477,743",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Oklahoma,"599,003","587,366","610,640","193,524","187,346","199,702",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Oregon,"507,504","493,784","521,224","115,775","109,621","121,929",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Pennsylvania,"1,503,929","1,480,307","1,527,551","429,209","414,287","444,131",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Rhode Island,"126,971","121,343","132,599","34,400","32,496","36,304",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),South Carolina,"736,098","719,691","752,505","216,791","208,749","224,833",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),South Dakota,"103,337","99,076","107,598","30,921","29,027","32,815",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Tennessee,"934,856","915,693","954,019","277,454","268,009","286,899",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Texas,"4,122,799","4,067,445","4,178,153","1,438,533","1,403,971","1,473,095",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Utah,"286,086","273,709","298,463","79,258","73,557","84,959",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Vermont,"63,208","59,860","66,556","12,908","11,928","13,888",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Virginia,"862,792","843,622","881,962","247,264","237,600","256,928",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Washington,"755,589","738,622","772,556","197,271","188,204","206,338",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),West Virginia,"291,051","282,054","300,048","74,847","71,804","77,890",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Wisconsin,"622,948","610,655","635,241","169,816","163,145","176,487",,
+All people in poverty (2021),Children ages 0-17 in poverty (2021),Wyoming,"60,226","56,527","63,925","15,661","14,411","16,911",,
