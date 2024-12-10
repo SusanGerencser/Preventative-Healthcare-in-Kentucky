@@ -1,5 +1,8 @@
 # Preventative-Healthcare-in-Kentucky
 An examination of the types and percentages of preventative healthcare accessible to Kentucky residents by county using CDC data from 2022 and USDA poverty rate data from 2021.
+### Summary
+This project compares the 2021 estimated poverty rates across Kentucky's 120 counties with the estimated rates of preventive healthcare received by county residents. The types of preventative healthcare included in the data utilization includes routine care such as yearly physical exams, cancer screenings for the relevant age groups, and any dental visit within the past 12 months. Additionally, the results included an estimate of adults within each county without any type of healthcare.  
+
 
 ## Kentucky Healthcare & Poverty Data Dictionary
 ### Overview
