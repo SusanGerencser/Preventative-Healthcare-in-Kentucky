@@ -12,7 +12,32 @@ While there is a clear correlation between poverty rates in Kentucky's counties 
 Furthermore, poverty rates are notably higher in the southeastern region of Kentucky, especially in counties bordering Virginia and West Virginia. This increase can be linked to the decline of the coal industry in the area, coupled with a lack of viable replacement industries. However, high poverty rates do not necessarily correlate with a lack of preventive healthcare. For example, Martin County had the highest poverty rate in Kentucky in 2021 at 40.5%, but 74.8% of its population completed their annual checkup in 2022. Meanwhile, only 41.2% of the county population had visited a dentist within the past year in 2022. These examples suggest that financial factors alone cannot explain the lack of preventive care utilization. Other factors, such as transportation, the availability of in-network providers, and access to health resources, must also be considered when examining preventative healthcare rates.
 
 ### Feature List
+* Custom Data Dictionary  
+* Tableau Visualization  
+* Code Comments 
 
+### Instructions
+1. Clone the repository to your machine:
+    ```bash
+    git clone 
+    ```
+2. Create and activate a virtual environment, and install required packages from 'requirements.txt':
+- **Linux/Mac:**
+  ```bash
+  python3 -m venv venv
+  source venv/bin/activate
+  pip install -r requirements.txt
+  ```
+- **GitBash:**
+  ```bash
+  python -m venv venv
+  source venv/Scripts/activate
+  pip install -r requirements.txt
+  ```
+3. Once complete, be sure to deactivate:
+    ```
+    deactivate
+      ```
 
 ## Kentucky Healthcare & Poverty Data Dictionary
 ### Overview
