@@ -1,5 +1,43 @@
-# Preventative-Healthcare-in-Kentucky
+<img src="https://cdn.theatlantic.com/thumbor/AZnX7vSCab-KUUUnomXVV_AtE5I=/1200x807/media/img/photo/2020/05/kentucky-photos/a01_1164037780/original.jpg" width="1000" height="500">
+
+# Preventative Healthcare in Kentucky
 An examination of the types and percentages of preventative healthcare accessible to Kentucky residents by county using CDC data from 2022 and USDA poverty rate data from 2021.
+
+### Summary
+This project analyzes the 2021 estimated poverty rates across Kentucky’s 120 counties in relation to the estimated rates of preventive healthcare received by county residents in 2022. The preventive healthcare data encompasses routine services such as annual physical exams, age-appropriate cancer screenings, and dental visits within the past 12 months. Additionally, the analysis includes estimates of the adult populations in each county without any access to healthcare. The aim of this study is to examine the correlation between poverty rates and a lack of preventive healthcare, as well as to identify which county populations have the greatest need for improved access to various forms of preventive care.
+
+### Conclusions 
+While there is a clear correlation between poverty rates in Kentucky's counties and a lack of preventive care, poverty and lack of insurance do not appear to be the sole factors. For instance, Oldham County had an estimated poverty rate of 4.9% in 2021, and only 4.7% of the population lacked health insurance in 2022. However,  only an estimated 68.6% of the county's residents visited a dentist in the past 12 months, with the percentage only decreasing across other counties in Kentucky. This lack of dental care may be due to financial constraints, insurance coverage issues, or simply a lack of awareness about the importance of regular dental exams.  
+
+Furthermore, poverty rates are notably higher in the southeastern region of Kentucky, especially in counties bordering Virginia and West Virginia. This increase can be linked to the decline of the coal industry in the area, coupled with a lack of viable replacement industries. However, high poverty rates do not necessarily correlate with a lack of preventive healthcare. For example, Martin County had the highest poverty rate in Kentucky in 2021 at 40.5%, but 74.8% of its population completed their annual checkup in 2022. Meanwhile, only 41.2% of the county population had visited a dentist within the past year in 2022. These examples suggest that financial factors alone cannot explain the lack of preventive care utilization. Other factors, such as transportation, the availability of in-network providers, and access to health resources, must also be considered when examining preventative healthcare rates.
+
+### Feature List
+* Custom Data Dictionary  
+* Tableau Visualization  
+* Code Comments 
+
+### Instructions
+1. Clone the repository to your machine:
+    ```bash
+    git clone https://github.com/SusanGerencser/Preventative-Healthcare-in-Kentucky.git
+    ```
+2. Create and activate a virtual environment, and install required packages from 'requirements.txt':
+- **Linux/Mac:**
+  ```bash
+  python3 -m venv venv
+  source venv/bin/activate
+  pip install -r requirements.txt
+  ```
+- **GitBash:**
+  ```bash
+  python -m venv venv
+  source venv/Scripts/activate
+  pip install -r requirements.txt
+  ```
+3. Once complete, be sure to deactivate:
+    ```
+    deactivate
+      ```
 
 ## Kentucky Healthcare & Poverty Data Dictionary
 ### Overview
