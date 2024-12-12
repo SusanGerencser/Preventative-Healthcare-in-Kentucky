@@ -1,4 +1,6 @@
-# Preventative-Healthcare-in-Kentucky
+<img src="https://cdn.theatlantic.com/thumbor/AZnX7vSCab-KUUUnomXVV_AtE5I=/1200x807/media/img/photo/2020/05/kentucky-photos/a01_1164037780/original.jpg" width="1000" height="200">
+
+# Preventative Healthcare in Kentucky
 An examination of the types and percentages of preventative healthcare accessible to Kentucky residents by county using CDC data from 2022 and USDA poverty rate data from 2021.
 
 ### Summary
