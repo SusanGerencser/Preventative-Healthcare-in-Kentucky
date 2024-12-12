@@ -19,7 +19,7 @@ Furthermore, poverty rates are notably higher in the southeastern region of Kent
 ### Instructions
 1. Clone the repository to your machine:
     ```bash
-    git clone 
+    git clone https://github.com/SusanGerencser/Preventative-Healthcare-in-Kentucky.git
     ```
 2. Create and activate a virtual environment, and install required packages from 'requirements.txt':
 - **Linux/Mac:**
