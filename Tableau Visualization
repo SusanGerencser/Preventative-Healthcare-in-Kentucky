@@ -1,16 +1,12 @@
 ## Tableau Visualizations
 
 ### Interactive Dashboard
-View the interactive dashboard on Tableau Public: [Dashboard Name](your-tableau-public-link)
+View the interactive dashboard on Tableau Public: [Kentucky Preventative Healthcare by County](https://public.tableau.com/shared/2S2WKPHRF?:display_count=n&:origin=viz_share_link)
 
 ### Static Screenshots
 ![Dashboard Screenshot](path-to-screenshot/dashboard.png)
 
-### Workbook Files
-- `project_name.twbx` - Packaged workbook with data
-- `project_name.twb` - Workbook file only
-
 ### How to Use
 1. Download the .twbx file
 2. Open with Tableau Desktop/Reader
-3. Navigate to [specific worksheet/dashboard]
+3. Navigate to Kentucky Preventative Healthcare by County
