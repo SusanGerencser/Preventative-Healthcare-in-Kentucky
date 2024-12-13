@@ -22,17 +22,17 @@ Furthermore, poverty rates are notably higher in the southeastern region of Kent
     git clone https://github.com/SusanGerencser/Preventative-Healthcare-in-Kentucky.git
     
 2. Create and activate a virtual environment, and install required packages from 'requirements.txt':
-- **Linux/Mac:**
-  bash
-  python3 -m venv venv
-  source venv/bin/activate
-  pip install -r requirements.txt
+    - **Linux/Mac:**
+      bash
+      python3 -m venv venv
+      source venv/bin/activate
+      pip install -r requirements.txt
   
-- **GitBash:**
-  bash
-  python -m venv venv
-  source venv/Scripts/activate
-  pip install -r requirements.txt
+    - **GitBash:**
+      bash
+      python -m venv venv
+      source venv/Scripts/activate
+      pip install -r requirements.txt
   
 3. Once complete, be sure to deactivate:
    
